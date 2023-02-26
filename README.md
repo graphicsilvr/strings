@@ -27,26 +27,11 @@ Add additional notes about how to deploy this on a live system
 2. Install all the required dependencies
 3. Run the code in the strings.py file with the command `python strings.py`
 
-## Built With
-Python - The programming language used
-
-## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 ## Authors
-[Your Name] - Initial work - [Your Username]
+Sylvious
 
 ## License
 This project is licensed under the [license name] - see the LICENSE.md file for details
-
-## Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-<<<<<<< HEAD
-
-
-=======
->>>>>>> cb3854396aafe1c4d2b695511d717d5279e2f2e5
